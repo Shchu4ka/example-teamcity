@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a8cd5a6-b2a1-49e7-a7a8-f4b7294a18f8)## Домашнее задание к занятию 11 «Teamcity»
+## Домашнее задание к занятию 11 «Teamcity»
 
 # 1. Подготовка
    машины
